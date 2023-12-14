@@ -1,6 +1,6 @@
 import { AwsClient } from "aws4fetch";
 
-const HOMEPAGE = "https://github.com/milkey-mouse/git-lfs-s3-proxy";
+const HOMEPAGE = "https://github.com/mortonprod/git-lfs-s3-proxy";
 const EXPIRY = 3600;
 
 const MIME = "application/vnd.git-lfs+json";
